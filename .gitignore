@@ -169,17 +169,6 @@ finetuned_longform/checkpoint-100/tokenizer_config.json
 finetuned_longform/checkpoint-100/trainer_state.json
 finetuned_longform/checkpoint-100/training_args.bin
 finetuned_longform/checkpoint-100/vocab.json
-finetuned_longform/checkpoint-150/config.json
-finetuned_longform/checkpoint-150/merges.txt
-finetuned_longform/checkpoint-150/optimizer.pt
-finetuned_longform/checkpoint-150/pytorch_model.bin
-finetuned_longform/checkpoint-150/rng_state.pth
-finetuned_longform/checkpoint-150/scheduler.pt
-finetuned_longform/checkpoint-150/special_tokens_map.json
-finetuned_longform/checkpoint-150/tokenizer_config.json
-finetuned_longform/checkpoint-150/trainer_state.json
-finetuned_longform/checkpoint-150/training_args.bin
-finetuned_longform/checkpoint-150/vocab.json
 finetuned_longform/checkpoint-50/config.json
 finetuned_longform/checkpoint-50/merges.txt
 finetuned_longform/checkpoint-50/optimizer.pt
@@ -191,3 +180,5 @@ finetuned_longform/checkpoint-50/tokenizer_config.json
 finetuned_longform/checkpoint-50/trainer_state.json
 finetuned_longform/checkpoint-50/training_args.bin
 finetuned_longform/checkpoint-50/vocab.json
+finetuned/checkpoint-1000/adapter_config.json
+finetuned/*
